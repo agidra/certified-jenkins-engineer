@@ -27,8 +27,8 @@ This topic comprises approximately 27% of the exam. Questions cover the followin
  	* Branch and Merge Strategies
 
 * Testing
-Bene ts of tes ng with Jenkins
-De ne unit test, smoke test, acceptance test, automated veri ca on/func onal tests
+	* Benefits of testing with Jenkins
+	* Define unit test, smoke test, acceptance test, automated verification/functional tests
 
 * Notifications
 	* Types of notifications in Jenkins
