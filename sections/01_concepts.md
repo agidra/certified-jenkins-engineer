@@ -21,7 +21,7 @@ This topic comprises approximately 27% of the exam. Questions cover the followin
 	* What are source code management systems and how are they used?
  	* Cloud-based SCMs
  	* Jenkins changelogs
- 	* Incremental updates vs. clean check out.
+ 	* Incremental updates versus clean check out.
  	* Checking in code
  	* Infrastructure-as-Code
  	* Branch and Merge Strategies
