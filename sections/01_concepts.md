@@ -25,3 +25,42 @@ This topic comprises approximately 27% of the exam. Questions cover the followin
  	* Infrastructure-as-Code
  	* Branch and Merge Strategies
 
+* Testing
+Bene ts of tes ng with Jenkins
+De ne unit test, smoke test, acceptance test, automated veri ca on/func onal tests
+
+* Notifications
+	* Types of notifications in Jenkins
+	* Importance of notifications.
+
+* Distributed Builds
+	* What are distributed builds?
+	* Functions of masters and agents.
+
+* Plugins
+	* What are plugins?
+	* What is the plugin manager?
+ 
+* Jenkins Rest API
+	* How to interact with it?
+	* Why use it?
+
+* Security
+	* Authentication versus authorization
+	* Matrix security
+	* Definition of auditing, credentials, and other key security concepts.
+
+* Fingerprints
+	* What are fingerprints?
+	* How do fingerprints work?
+
+* Artifacts
+	* How to use artifacts in Jenkins?
+	* Storing artifacts
+
+* Configuration Management (Tools such as Chef, Puppet, etc.) 
+	* Elements of software configuration management
+	* Importance of software configuration management
+
+* Using 3rd party tools
+	* How to use 3rd party tools with Jenkins
