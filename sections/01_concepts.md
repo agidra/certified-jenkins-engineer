@@ -5,10 +5,6 @@ This topic comprises approximately 27% of the exam. Questions cover the followin
 * Continuous Delivery/Continuous Integration concepts
 	* Define continuous integration, continuous delivery, continuous deployment.
 
-asdasdasd
-asdasdasd
-asdasdasd
-
 	* Diference between CI and CD.
 	* Stages of CI and CD.
 	* Continuous delivery versus continuous deployment.
