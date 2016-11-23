@@ -8,9 +8,7 @@ This topic comprises approximately 27% of the exam. Questions cover the followin
 sdajbsudbasubdasda
 sadasdahsduibaisdbaiysvbdyhavbshdvahvdauvsd
 bahsdvasvduagvdugavsdgavsd
-akbsdihabihsdbabsdihabsidhbahisbda
-baisbdaibsdiabisdaisbdabsdiab
-bjsdiabsdaisdbaibsadoshdoah
+
 
 	* Diference between CI and CD.
 	* Stages of CI and CD.
