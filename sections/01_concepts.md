@@ -1,13 +1,26 @@
-##1. Key CI/CD/Jenkins Concepts
+#1. Key CI/CD/Jenkins Concepts
 
 This topic comprises approximately 27% of the exam. Questions cover the following topics:
 
-* Continuous Delivery/Continuous Integration concepts
-	* Define continuous integration, continuous delivery, continuous deployment.
+##Continuous Delivery/Continuous Integration concepts.
+###Define continuous integration, continuous delivery, continuous deployment.
+Continuous Integration:
+Is a software development practice that guarantee integration of the code at least once a day. The main idea is to reduce the risk of deliver software without problems with integration process.
 
-	* Diference between CI and CD.
-	* Stages of CI and CD.
-	* Continuous delivery versus continuous deployment.
+Continuous Delivery:
+Is a software development practice where we garantee that the software developed can be released at any time.
+
+Continuous Deployment:
+A not common practice where increment of software developed is automaticaly released on production, even if authorization is necessary.
+
+###Diference between CI and CD.
+Continuos Integration 
+
+
+
+
+Stages of CI and CD.
+Continuous delivery versus continuous deployment.
 
 * Jobs
 	* What are jobs in Jenkins?
